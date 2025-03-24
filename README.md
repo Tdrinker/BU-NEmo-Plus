@@ -3,7 +3,7 @@
 The paper that introduces the dataset can be found here: https://aclanthology.org/2022.aacl-main.29/
 
 We created the dataset NEmo+ by significantly extending the U.S. gun violence
-news-to-emotions dataset, BU-NEmo (https://aclanthology.org/2022.lrec-1.267.pdf), from 320 to 1,297 news headline
+news-to-emotions dataset, BU-NEmo, from 320 to 1,297 news headline
 and lead image pairings and collecting 38,910 annotations. In curating
 the NEmo+ dataset, we developed methods to identify news items that
 will trigger similar versus divergent emotional responses. For news
